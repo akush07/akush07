@@ -30,6 +30,7 @@ I am passionate and fascinated about this technology which is the reason that dr
 - Happy to collaborate with Data Science community
 - Committed to return back to the community which has helped me to gain momentum in this area of work, I would be happy to help to my knowledge
 - 📫 How to reach me: ml.akush07@gmail.com
+- Finally, I love to travel to new places especially when it is untouched and experience life as it is.
 
 **Languages and Tools:**  
 
