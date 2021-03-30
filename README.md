@@ -20,7 +20,9 @@ Hi, I'm Abhishek, working as a Data Scientist. <br>
 I have 4+ years of rich experience in developing predictive models.<br>
 Work Experience in Machine Learning Modeling, Developing Deep Learning, Computer Vision and NLP based Applications in agile environment.
 
-I am passionate and fascinated about this technology which is the reason that drives me work hard and deliever my work. 
+I was always fascinated watching the sci-fi movies on AI and witnessing it from reel to real life gives me a hope that the world can still be an organized place to live.
+
+I see this as an opportunity to be a part of the community who are transforming the world for a better future. Let's together make it true!
 
 **Current Work:**
 
