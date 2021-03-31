@@ -14,7 +14,7 @@
 
 <br />
 <br>
-<img align="center" alt="GIF" src="https://media.giphy.com/media/pOEbLRT4SwD35IELiQ/giphy.gif" />  
+<img align="center" alt="GIF" src="https://github.com/akush07/akush07/blob/7cf7259e16da1db847fffff1270c9eeddc8dbc72/akush07.gif" />  
 
 Hi, I'm Abhishek, working as a Data Scientist. <br>
 I have 4+ years of rich experience in developing predictive models.<br>
